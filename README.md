@@ -1,3 +1,3 @@
 Here are the original remote sensing images for 
-" Tiff-SegFormer: Semantic segmentation model of multi-source remote sensing images was used to extract winter wheat at tillering stage ",
+" Semantic segmentation model of multi-source remote sensing images was used to extract winter wheat at tillering stage ",
  including RGB images and thermal infrared images
